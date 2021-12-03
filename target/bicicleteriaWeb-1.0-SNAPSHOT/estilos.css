@@ -1,0 +1,67 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 28 oct. 2020, 10:48:26
+    Author     : REY
+*/
+.body {
+    font-family: Verdana,Arial,sans-serif;
+    font-size: 15px;
+    color: #735846;
+    text-align: justify;
+    background-color: #3d2e2a;
+}
+
+#h1{text-align:center}
+
+.cabecera{
+    font-size:1.2em;
+    font-weight:bold;
+    color: #FFFFFF;
+    background-color: #08088A;
+}
+.filas{
+    text-align:center;
+    background-color: #00AAE4;
+}
+table{
+    float:left;
+}
+#ContenedorBoton{
+    margin-left:250px;
+}
+
+#imagen{
+    float: right;
+}
+
+.inicio{
+    text-align: center;
+    margin: auto;
+    font-size: 20px; 
+    padding: 20px;
+}
+
+.titulo{
+    font-size: 50px; /* aplico tamaño solo al titulo */
+    font-style: italic;
+    font-weight: 800; /* grosor de las letras */
+    display: inline; /* para que respete el padding indicado en seccion */
+}
+
+.label{
+    font-size: 20px;
+    font-weight: 400;
+    display:inline;
+}
+
+.entrada{
+    border-radius: 20%;
+}
+
+.enviar{
+    border-radius: 20%;
+}
